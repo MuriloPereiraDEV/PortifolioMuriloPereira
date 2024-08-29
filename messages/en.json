@@ -1,5 +1,12 @@
 {
-  "HomePage": {
-    "title": "Hello world!"
+  "Home": {
+    "title": "Hello world!",
+    "language": {
+      "en": "English",
+      "pt-br": "Portuguese",
+      "lan": "Languages",
+      "select": "Select one"
+    },
+    "flag": "us"
   }
 }

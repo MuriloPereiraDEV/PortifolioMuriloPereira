@@ -1,10 +1,12 @@
 {
-  "HomePage": {
+  "Home": {
     "title": "Ola Mundo!",
     "language": {
       "en": "Inglês",
       "pt-br": "Português",
-      "lan": "Idiomas"
-    }
+      "lan": "Idiomas",
+      "select": "Selecione um"
+    },
+    "flag": "bra"
   }
 }
