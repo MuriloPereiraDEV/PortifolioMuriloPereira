@@ -7,6 +7,15 @@
       "lan": "Idiomas",
       "select": "Selecione um"
     },
-    "flag": "bra"
+    "flag": "bra",
+    "section1": {
+      "title1": "Olá, Me chamo",
+      "title2": "Murilo Pereira!",
+      "title3": "Desenvolvedor Full Stack"
+    },
+    "section2": {
+      "title": "Sobre mim",
+      "content": "Aqui vou escrever sobre mim e o que eu achar que vale comentar que possa me ajudar a atrair a atencao de algum recrutador"
+    }
   }
 }
